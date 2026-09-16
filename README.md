@@ -95,9 +95,9 @@ A knowledge article was created for the VPN issue:
 The `reports` folder contains the ServiceNow incident reports used as project evidence.
 
 ### Reports
-
 - `Incident-INC0010001-Report.pdf`
 - `Incident-INC0010005-Report.pdf`
+- This both pdfs are same content.So,it put as Incident-Lifecycle-Automation-Report.pdf
 
 These reports demonstrate incident details, resolution information, related records, SLA information, configuration items, and knowledge integration.
 
@@ -109,8 +109,7 @@ Incident-Lifecycle-Automation-ServiceNow/
 ├── README.md
 │
 ├── reports/
-│   ├── Incident-INC0010001-Report.pdf
-│   └── Incident-INC0010005-Report.pdf
+│   ├── Incident-Lifecycle-Automation-Report.pdf
 │
 └── screenshots/
     ├── service-created.png
